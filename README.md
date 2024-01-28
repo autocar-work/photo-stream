@@ -191,4 +191,6 @@ Before publishing your website, Jekyll will resize your photos into 3 different 
 
 ## ref
 
+https://app.netlify.com/sites/way-lee/deploys
+
 https://juemuren4449.com/archives/photo-stream
