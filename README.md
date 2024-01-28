@@ -1,23 +1,33 @@
 ![Photo Stream Social Preview](https://raw.githubusercontent.com/waschinski/photo-stream/master/social-preview.png)
 
 # Photo Stream
+### github.com/waschinski/photo-stream
 
 Photo Stream is a simpler home for your photos initially created by [@maxvoltar](https://github.com/maxvoltar) and now maintained by [@waschinski](https://github.com/waschinski), [@boerniee](https://github.com/boerniee) and [friends](https://github.com/waschinski/photo-stream/graphs/contributors). Easy to use, self hosted, no tracking, just photos.
 
-- [Demo](#demo)
-- [Live Examples](#live-examples)
-- [Features](#features)
-- [Why?](#why)
-- [How to Install](#how-to-install)
+- [Photo Stream](#photo-stream)
+    - [github.com/waschinski/photo-stream](#githubcomwaschinskiphoto-stream)
+  - [Demo](#demo)
+  - [Live Examples](#live-examples)
+  - [Features](#features)
+  - [Why?](#why)
+  - [How to install](#how-to-install)
     - [Using Docker](#using-docker)
+      - [Using Docker on Raspberry Pi (`linux/arm/v6` only):](#using-docker-on-raspberry-pi-linuxarmv6-only)
     - [Manually](#manually)
-- [How to deploy directly](#how-to-deploy-directly)
+      - [Build tools](#build-tools)
+      - [Ruby (v3+ recommended)](#ruby-v3-recommended)
+      - [libvips](#libvips)
+      - [Jekyll](#jekyll)
+  - [How to deploy directly](#how-to-deploy-directly)
     - [on Render](#on-render)
-- [How to use](#how-to-use)
-- [Customize](#customize)
+  - [How to use](#how-to-use)
+    - [Automating the build \& upload with rsync or lftp](#automating-the-build--upload-with-rsync-or-lftp)
+  - [Customize](#customize)
     - [Basics](#basics)
     - [Advanced](#advanced)
-- [Credits](#credits)
+  - [Credits](#credits)
+  - [ref](#ref)
 
 ## Demo
 
@@ -178,3 +188,7 @@ Before publishing your website, Jekyll will resize your photos into 3 different 
 
 - [All contributors](https://github.com/waschinski/photo-stream/graphs/contributors)
 - [Carrie Cronan for the photos used for demonstration](https://unsplash.com/@ccronan)
+
+## ref
+
+https://juemuren4449.com/archives/photo-stream
