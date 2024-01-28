@@ -191,6 +191,10 @@ Before publishing your website, Jekyll will resize your photos into 3 different 
 
 ## ref
 
+netlify 设置域名
+
+https://juejin.cn/post/7127855535881191455
+
 https://app.netlify.com/sites/way-lee/deploys
 
 https://juemuren4449.com/archives/photo-stream
